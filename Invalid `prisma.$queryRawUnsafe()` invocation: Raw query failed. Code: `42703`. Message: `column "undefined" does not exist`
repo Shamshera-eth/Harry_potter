@@ -1,0 +1,1 @@
+Invalid `prisma.$queryRawUnsafe()` invocation: Raw query failed. Code: `42703`. Message: `column "undefined" does not exist`
